@@ -1,0 +1,288 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="431.8mm" height="279.4mm" viewBox="0 0 431.8 279.4"><rect x="0" y="0" width="431.8" height="279.4" fill="#FFFFFF"/><rect x="10.0" y="10.0" width="411.8" height="259.4" fill="none" stroke="#111827" stroke-width="0.7"/><line x1="61.5" y1="10.0" x2="61.5" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="61.5" y1="269.4" x2="61.5" y2="266.4" stroke="#111827" stroke-width="0.35"/><line x1="113.0" y1="10.0" x2="113.0" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="113.0" y1="269.4" x2="113.0" y2="266.4" stroke="#111827" stroke-width="0.35"/><line x1="164.4" y1="10.0" x2="164.4" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="164.4" y1="269.4" x2="164.4" y2="266.4" stroke="#111827" stroke-width="0.35"/><line x1="215.9" y1="10.0" x2="215.9" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="215.9" y1="269.4" x2="215.9" y2="266.4" stroke="#111827" stroke-width="0.35"/><line x1="267.4" y1="10.0" x2="267.4" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="267.4" y1="269.4" x2="267.4" y2="266.4" stroke="#111827" stroke-width="0.35"/><line x1="318.9" y1="10.0" x2="318.9" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="318.9" y1="269.4" x2="318.9" y2="266.4" stroke="#111827" stroke-width="0.35"/><line x1="370.3" y1="10.0" x2="370.3" y2="13.0" stroke="#111827" stroke-width="0.35"/><line x1="370.3" y1="269.4" x2="370.3" y2="266.4" stroke="#111827" stroke-width="0.35"/><text x="16.00" y="19.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.2" font-weight="600" fill="#B45309" text-anchor="start">BUILD PLAN SKETCH, PLAN NOT YET BUILT</text><text x="90.00" y="19.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.2" font-weight="600" fill="#111827" text-anchor="start">CollarDrive  ·  github.com/BoujeeEnjinia1701/collardrive</text><svg x="83.47" y="123.20" width="63.04" height="66.04" viewBox="-315.175 -330.175 630.35 660.35" preserveAspectRatio="xMidYMid meet" overflow="visible"><g transform="scale(1,-1)" stroke-linecap="round">
+    <g fill="none" stroke="rgb(17,23,39)" stroke-width="0.9000" id="Visible">
+      <line x1="-285.0" y1="-327.0" x2="-285.0" y2="330.0" />
+      <line x1="-285.0" y1="-327.0" x2="315.0" y2="-327.0" />
+      <line x1="315.0" y1="-327.0" x2="315.0" y2="330.0" />
+      <line x1="-285.0" y1="330.0" x2="315.0" y2="330.0" />
+      <circle cx="5.0" cy="70.0" r="20.0" />
+      <circle cx="205.0" cy="-230.0" r="24.0" />
+      <line x1="-287.0" y1="-290.0" x2="-285.0" y2="-290.0" />
+      <line x1="-285.0" y1="-330.0" x2="-285.0" y2="-327.0" />
+      <line x1="-287.0" y1="-290.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-327.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-315.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-285.0" y2="-330.0" />
+      <line x1="315.0" y1="-330.0" x2="315.0" y2="-327.0" />
+      <line x1="255.0" y1="-330.0" x2="315.0" y2="-330.0" />
+      <line x1="255.0" y1="-330.0" x2="255.0" y2="-327.0" />
+    </g>
+    <g fill="none" stroke="rgb(106,113,128)" stroke-width="1.7500" id="Hidden" stroke-dasharray="21.000 5.250">
+      <line x1="-285.0" y1="330.0" x2="-285.0" y2="-327.0" />
+      <line x1="-285.0" y1="-327.0" x2="-285.0" y2="-290.0" />
+      <line x1="-285.0" y1="-327.0" x2="-285.0" y2="-290.0" />
+      <line x1="-285.0" y1="-327.0" x2="-285.0" y2="-290.0" />
+      <line x1="-285.0" y1="-327.0" x2="-285.0" y2="-290.0" />
+      <line x1="-285.0" y1="330.0" x2="315.0" y2="330.0" />
+      <line x1="-285.0" y1="-327.0" x2="315.0" y2="-327.0" />
+      <line x1="315.0" y1="330.0" x2="315.0" y2="-327.0" />
+      <circle cx="5.0" cy="70.0" r="20.0" />
+      <line x1="313.0" y1="-327.0" x2="315.0" y2="-327.0" />
+      <line x1="-283.0" y1="-327.0" x2="313.0" y2="-327.0" />
+      <line x1="-283.0" y1="-327.0" x2="313.0" y2="-327.0" />
+      <line x1="313.0" y1="-327.0" x2="315.0" y2="-327.0" />
+      <line x1="-285.0" y1="-330.0" x2="-285.0" y2="-327.0" />
+      <line x1="-287.0" y1="-290.0" x2="-285.0" y2="-290.0" />
+      <line x1="-287.0" y1="-290.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-327.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-315.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-285.0" y2="-330.0" />
+      <line x1="-287.0" y1="-290.0" x2="-285.0" y2="-290.0" />
+      <line x1="-285.0" y1="-330.0" x2="-285.0" y2="-327.0" />
+      <line x1="-287.0" y1="-290.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-327.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-315.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-285.0" y2="-330.0" />
+      <line x1="-285.0" y1="-330.0" x2="-285.0" y2="-327.0" />
+      <line x1="-287.0" y1="-290.0" x2="-285.0" y2="-290.0" />
+      <line x1="-287.0" y1="-290.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-327.0" x2="-287.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-315.0" y2="-327.0" />
+      <line x1="-315.0" y1="-330.0" x2="-285.0" y2="-330.0" />
+      <line x1="315.0" y1="-330.0" x2="315.0" y2="-327.0" />
+      <line x1="315.0" y1="-330.0" x2="315.0" y2="-327.0" />
+      <line x1="315.0" y1="-330.0" x2="315.0" y2="-327.0" />
+      <circle cx="5.0" cy="70.0" r="20.0" />
+      <circle cx="205.0" cy="-230.0" r="24.0" />
+      <circle cx="5.0" cy="70.0" r="20.0" />
+      <line x1="255.0" y1="-330.0" x2="315.0" y2="-330.0" />
+      <line x1="255.0" y1="-327.0" x2="313.0" y2="-327.0" />
+      <line x1="255.0" y1="-330.0" x2="255.0" y2="-327.0" />
+      <line x1="313.0" y1="-327.0" x2="313.0" y2="328.0" />
+      <line x1="313.0" y1="-327.0" x2="313.0" y2="328.0" />
+      <line x1="-283.0" y1="-327.0" x2="-283.0" y2="328.0" />
+      <line x1="-283.0" y1="328.0" x2="313.0" y2="328.0" />
+      <line x1="-283.0" y1="-327.0" x2="-283.0" y2="328.0" />
+      <line x1="-283.0" y1="328.0" x2="313.0" y2="328.0" />
+      <line x1="255.0" y1="-327.0" x2="313.0" y2="-327.0" />
+      <line x1="255.0" y1="-330.0" x2="315.0" y2="-330.0" />
+      <line x1="255.0" y1="-327.0" x2="313.0" y2="-327.0" />
+      <line x1="313.0" y1="-327.0" x2="315.0" y2="-327.0" />
+      <line x1="255.0" y1="-330.0" x2="255.0" y2="-327.0" />
+      <line x1="313.0" y1="-327.0" x2="315.0" y2="-327.0" />
+      <line x1="255.0" y1="-330.0" x2="315.0" y2="-330.0" />
+      <line x1="255.0" y1="-327.0" x2="313.0" y2="-327.0" />
+      <line x1="255.0" y1="-330.0" x2="255.0" y2="-327.0" />
+    </g>
+    <g fill="none" stroke="rgb(106,113,128)" stroke-width="1.7500" id="Center" stroke-dasharray="42.000 5.272 0.044 5.272">
+      <line x1="-20.0" y1="70.0" x2="30.0" y2="70.0" />
+      <line x1="5.0" y1="45.0" x2="5.0" y2="95.0" />
+      <line x1="175.0" y1="-230.0" x2="235.0" y2="-230.0" />
+      <line x1="205.0" y1="-260.0" x2="205.0" y2="-200.0" />
+    </g>
+  </g>
+</svg><text x="114.98" y="195.24" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.8" font-weight="600" fill="#111827" text-anchor="middle">FRONT VIEW</text><text x="114.98" y="199.24" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.2" font-weight="400" fill="#4B5563" text-anchor="middle">Scale 1:10; looking at the front (along +Y)</text><svg x="83.47" y="45.16" width="63.04" height="52.04" viewBox="-315.175 -260.175 630.35 520.35" preserveAspectRatio="xMidYMid meet" overflow="visible"><g transform="scale(1,-1)" stroke-linecap="round">
+    <g fill="none" stroke="rgb(17,23,39)" stroke-width="0.9000" id="Visible">
+      <line x1="-285.0" y1="-260.0" x2="-285.0" y2="260.0" />
+      <line x1="-285.0" y1="-260.0" x2="315.0" y2="-260.0" />
+      <line x1="-285.0" y1="260.0" x2="315.0" y2="260.0" />
+      <line x1="315.0" y1="-260.0" x2="315.0" y2="260.0" />
+      <line x1="-287.0" y1="230.0" x2="-285.0" y2="230.0" />
+      <line x1="-315.0" y1="230.0" x2="-287.0" y2="230.0" />
+      <line x1="-287.0" y1="170.0" x2="-285.0" y2="170.0" />
+      <line x1="-287.0" y1="170.0" x2="-287.0" y2="230.0" />
+      <line x1="-315.0" y1="170.0" x2="-287.0" y2="170.0" />
+      <line x1="-287.0" y1="-170.0" x2="-285.0" y2="-170.0" />
+      <line x1="-315.0" y1="-170.0" x2="-287.0" y2="-170.0" />
+      <line x1="-287.0" y1="-230.0" x2="-285.0" y2="-230.0" />
+      <line x1="-287.0" y1="-230.0" x2="-287.0" y2="-170.0" />
+      <line x1="-315.0" y1="-230.0" x2="-287.0" y2="-230.0" />
+      <line x1="-315.0" y1="230.0" x2="-315.0" y2="170.0" />
+      <line x1="-315.0" y1="-170.0" x2="-315.0" y2="-230.0" />
+    </g>
+    <g fill="none" stroke="rgb(106,113,128)" stroke-width="1.7500" id="Hidden" stroke-dasharray="21.000 5.250">
+      <line x1="-285.0" y1="230.0" x2="-285.0" y2="260.0" />
+      <line x1="-285.0" y1="170.0" x2="-285.0" y2="230.0" />
+      <line x1="-285.0" y1="-170.0" x2="-285.0" y2="170.0" />
+      <line x1="-285.0" y1="-230.0" x2="-285.0" y2="-170.0" />
+      <line x1="-285.0" y1="-260.0" x2="-285.0" y2="-230.0" />
+      <line x1="-285.0" y1="-260.0" x2="315.0" y2="-260.0" />
+      <path d="M 25.0,-260.0 L 24.498558,-260.0 L 23.019377,-260.0 L 20.63663,-260.0 L 17.469796,-260.0 L 13.677675,-260.0 L 9.450419,-260.0 L 5.0,-260.0 L 0.549581,-260.0 L -3.677675,-260.0 L -7.469796,-260.0 L -10.63663,-260.0 L -13.019377,-260.0 L -14.498558,-260.0 L -15.0,-260.0" />
+      <path d="M -15.0,-260.0 L -14.498558,-260.0 L -13.019377,-260.0 L -10.63663,-260.0 L -7.469796,-260.0 L -3.677675,-260.0 L 0.549581,-260.0 L 5.0,-260.0 L 9.450419,-260.0 L 13.677675,-260.0 L 17.469796,-260.0 L 20.63663,-260.0 L 23.019377,-260.0 L 24.498558,-260.0 L 25.0,-260.0" />
+      <path d="M 229.0,-260.0 L 228.39827,-260.0 L 226.623253,-260.0 L 223.763956,-260.0 L 219.963755,-260.0 L 215.41321,-260.0 L 210.340502,-260.0 L 205.0,-260.0 L 199.659498,-260.0 L 194.58679,-260.0 L 190.036245,-260.0 L 186.236044,-260.0 L 183.376747,-260.0 L 181.60173,-260.0 L 181.0,-260.0" />
+      <path d="M 181.0,-260.0 L 181.60173,-260.0 L 183.376747,-260.0 L 186.236044,-260.0 L 190.036245,-260.0 L 194.58679,-260.0 L 199.659498,-260.0 L 205.0,-260.0 L 210.340502,-260.0 L 215.41321,-260.0 L 219.963755,-260.0 L 223.763956,-260.0 L 226.623253,-260.0 L 228.39827,-260.0 L 229.0,-260.0" />
+      <line x1="-285.0" y1="260.0" x2="315.0" y2="260.0" />
+      <path d="M 25.0,260.0 L 24.498558,260.0 L 23.019377,260.0 L 20.63663,260.0 L 17.469796,260.0 L 13.677675,260.0 L 9.450419,260.0 L 5.0,260.0 L 0.549581,260.0 L -3.677675,260.0 L -7.469796,260.0 L -10.63663,260.0 L -13.019377,260.0 L -14.498558,260.0 L -15.0,260.0" />
+      <path d="M -15.0,260.0 L -14.498558,260.0 L -13.019377,260.0 L -10.63663,260.0 L -7.469796,260.0 L -3.677675,260.0 L 0.549581,260.0 L 5.0,260.0 L 9.450419,260.0 L 13.677675,260.0 L 17.469796,260.0 L 20.63663,260.0 L 23.019377,260.0 L 24.498558,260.0 L 25.0,260.0" />
+      <line x1="315.0" y1="245.0" x2="315.0" y2="260.0" />
+      <line x1="313.0" y1="245.0" x2="315.0" y2="245.0" />
+      <line x1="313.0" y1="245.0" x2="313.0" y2="258.0" />
+      <line x1="-283.0" y1="258.0" x2="313.0" y2="258.0" />
+      <line x1="-283.0" y1="-258.0" x2="-283.0" y2="258.0" />
+      <line x1="-283.0" y1="-258.0" x2="313.0" y2="-258.0" />
+      <line x1="313.0" y1="-258.0" x2="313.0" y2="-230.0" />
+      <line x1="313.0" y1="-230.0" x2="315.0" y2="-230.0" />
+      <line x1="315.0" y1="-260.0" x2="315.0" y2="-230.0" />
+      <line x1="-285.0" y1="-230.0" x2="-285.0" y2="-170.0" />
+      <line x1="-285.0" y1="170.0" x2="-285.0" y2="230.0" />
+      <line x1="-315.0" y1="230.0" x2="-285.0" y2="230.0" />
+      <line x1="-315.0" y1="170.0" x2="-285.0" y2="170.0" />
+      <line x1="-315.0" y1="-170.0" x2="-285.0" y2="-170.0" />
+      <line x1="-315.0" y1="-230.0" x2="-285.0" y2="-230.0" />
+      <line x1="315.0" y1="-230.0" x2="315.0" y2="-170.0" />
+      <line x1="315.0" y1="-170.0" x2="315.0" y2="205.0" />
+      <line x1="315.0" y1="205.0" x2="315.0" y2="245.0" />
+      <line x1="25.0" y1="-258.0" x2="25.0" y2="-260.0" />
+      <path d="M 25.0,-258.0 L 24.498558,-258.0 L 23.019377,-258.0 L 20.63663,-258.0 L 17.469796,-258.0 L 13.677675,-258.0 L 9.450419,-258.0 L 5.0,-258.0 L 0.549581,-258.0 L -3.677675,-258.0 L -7.469796,-258.0 L -10.63663,-258.0 L -13.019377,-258.0 L -14.498558,-258.0 L -15.0,-258.0" />
+      <path d="M -15.0,-258.0 L -14.498558,-258.0 L -13.019377,-258.0 L -10.63663,-258.0 L -7.469796,-258.0 L -3.677675,-258.0 L 0.549581,-258.0 L 5.0,-258.0 L 9.450419,-258.0 L 13.677675,-258.0 L 17.469796,-258.0 L 20.63663,-258.0 L 23.019377,-258.0 L 24.498558,-258.0 L 25.0,-258.0" />
+      <line x1="229.0" y1="-258.0" x2="229.0" y2="-260.0" />
+      <path d="M 229.0,-258.0 L 228.39827,-258.0 L 226.623253,-258.0 L 223.763956,-258.0 L 219.963755,-258.0 L 215.41321,-258.0 L 210.340502,-258.0 L 205.0,-258.0 L 199.659498,-258.0 L 194.58679,-258.0 L 190.036245,-258.0 L 186.236044,-258.0 L 183.376747,-258.0 L 181.60173,-258.0 L 181.0,-258.0" />
+      <path d="M 181.0,-258.0 L 181.60173,-258.0 L 183.376747,-258.0 L 186.236044,-258.0 L 190.036245,-258.0 L 194.58679,-258.0 L 199.659498,-258.0 L 205.0,-258.0 L 210.340502,-258.0 L 215.41321,-258.0 L 219.963755,-258.0 L 223.763956,-258.0 L 226.623253,-258.0 L 228.39827,-258.0 L 229.0,-258.0" />
+      <path d="M 25.0,258.0 L 24.498558,258.0 L 23.019377,258.0 L 20.63663,258.0 L 17.469796,258.0 L 13.677675,258.0 L 9.450419,258.0 L 5.0,258.0 L 0.549581,258.0 L -3.677675,258.0 L -7.469796,258.0 L -10.63663,258.0 L -13.019377,258.0 L -14.498558,258.0 L -15.0,258.0" />
+      <path d="M -15.0,258.0 L -14.498558,258.0 L -13.019377,258.0 L -10.63663,258.0 L -7.469796,258.0 L -3.677675,258.0 L 0.549581,258.0 L 5.0,258.0 L 9.450419,258.0 L 13.677675,258.0 L 17.469796,258.0 L 20.63663,258.0 L 23.019377,258.0 L 24.498558,258.0 L 25.0,258.0" />
+      <line x1="25.0" y1="260.0" x2="25.0" y2="258.0" />
+      <line x1="255.0" y1="245.0" x2="315.0" y2="245.0" />
+      <line x1="255.0" y1="245.0" x2="313.0" y2="245.0" />
+      <line x1="313.0" y1="-258.0" x2="313.0" y2="258.0" />
+      <line x1="313.0" y1="-230.0" x2="313.0" y2="-170.0" />
+      <line x1="313.0" y1="-170.0" x2="313.0" y2="205.0" />
+      <line x1="313.0" y1="205.0" x2="313.0" y2="245.0" />
+      <line x1="-283.0" y1="258.0" x2="313.0" y2="258.0" />
+      <line x1="-283.0" y1="-258.0" x2="-283.0" y2="258.0" />
+      <line x1="-283.0" y1="-258.0" x2="313.0" y2="-258.0" />
+      <line x1="255.0" y1="-230.0" x2="315.0" y2="-230.0" />
+      <line x1="255.0" y1="-230.0" x2="313.0" y2="-230.0" />
+      <line x1="-285.0" y1="-230.0" x2="-285.0" y2="-170.0" />
+      <line x1="-285.0" y1="170.0" x2="-285.0" y2="230.0" />
+      <line x1="-287.0" y1="170.0" x2="-287.0" y2="230.0" />
+      <line x1="-315.0" y1="170.0" x2="-315.0" y2="230.0" />
+      <line x1="-287.0" y1="-230.0" x2="-287.0" y2="-170.0" />
+      <line x1="-315.0" y1="-230.0" x2="-315.0" y2="-170.0" />
+      <line x1="255.0" y1="-230.0" x2="255.0" y2="-170.0" />
+      <line x1="255.0" y1="-170.0" x2="315.0" y2="-170.0" />
+      <line x1="255.0" y1="-170.0" x2="313.0" y2="-170.0" />
+      <line x1="313.0" y1="-170.0" x2="315.0" y2="-170.0" />
+      <line x1="313.0" y1="205.0" x2="315.0" y2="205.0" />
+      <line x1="255.0" y1="205.0" x2="315.0" y2="205.0" />
+      <line x1="255.0" y1="205.0" x2="313.0" y2="205.0" />
+      <line x1="255.0" y1="205.0" x2="255.0" y2="245.0" />
+      <line x1="255.0" y1="205.0" x2="255.0" y2="245.0" />
+      <line x1="255.0" y1="-230.0" x2="255.0" y2="-170.0" />
+      <line x1="-15.0" y1="-258.0" x2="-15.0" y2="-260.0" />
+      <line x1="181.0" y1="-258.0" x2="181.0" y2="-260.0" />
+      <line x1="-15.0" y1="260.0" x2="-15.0" y2="258.0" />
+    </g>
+    <g fill="none" stroke="rgb(106,113,128)" stroke-width="1.7500" id="Center" stroke-dasharray="42.000 5.272 0.044 5.272">
+      <line x1="5.0" y1="-251.88" x2="5.0" y2="-260.0" />
+      <line x1="5.0" y1="260.0" x2="5.0" y2="251.88" />
+      <line x1="205.0" y1="-250.68" x2="205.0" y2="-260.0" />
+    </g>
+  </g>
+</svg><text x="114.98" y="103.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.8" font-weight="600" fill="#111827" text-anchor="middle">TOP VIEW</text><text x="114.98" y="107.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.2" font-weight="400" fill="#4B5563" text-anchor="middle">Scale 1:10; looking down (along -Z)</text><svg x="160.50" y="123.20" width="52.04" height="66.04" viewBox="-260.175 -330.175 520.35 660.35" preserveAspectRatio="xMidYMid meet" overflow="visible"><g transform="scale(1,-1)" stroke-linecap="round">
+    <g fill="none" stroke="rgb(17,23,39)" stroke-width="0.9000" id="Visible">
+      <line x1="-260.0" y1="-327.0" x2="-260.0" y2="330.0" />
+      <line x1="-260.0" y1="330.0" x2="260.0" y2="330.0" />
+      <line x1="260.0" y1="330.0" x2="260.0" y2="-327.0" />
+      <line x1="245.0" y1="-327.0" x2="260.0" y2="-327.0" />
+      <line x1="-258.0" y1="-327.0" x2="-230.0" y2="-327.0" />
+      <line x1="-170.0" y1="-327.0" x2="205.0" y2="-327.0" />
+      <line x1="245.0" y1="-327.0" x2="258.0" y2="-327.0" />
+      <line x1="-260.0" y1="-327.0" x2="-230.0" y2="-327.0" />
+      <line x1="170.0" y1="-330.0" x2="170.0" y2="-327.0" />
+      <line x1="-230.0" y1="-330.0" x2="-230.0" y2="-327.0" />
+      <line x1="-230.0" y1="-330.0" x2="-170.0" y2="-330.0" />
+      <line x1="-170.0" y1="-330.0" x2="-170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-327.0" x2="205.0" y2="-327.0" />
+      <line x1="205.0" y1="-330.0" x2="205.0" y2="-327.0" />
+      <line x1="205.0" y1="-330.0" x2="245.0" y2="-330.0" />
+      <line x1="245.0" y1="-330.0" x2="245.0" y2="-327.0" />
+      <line x1="170.0" y1="-330.0" x2="205.0" y2="-330.0" />
+    </g>
+    <g fill="none" stroke="rgb(106,113,128)" stroke-width="1.7500" id="Hidden" stroke-dasharray="21.000 5.250">
+      <line x1="-260.0" y1="-327.0" x2="-260.0" y2="330.0" />
+      <line x1="-260.0" y1="330.0" x2="260.0" y2="330.0" />
+      <line x1="260.0" y1="330.0" x2="260.0" y2="-327.0" />
+      <line x1="230.0" y1="-327.0" x2="260.0" y2="-327.0" />
+      <line x1="230.0" y1="-327.0" x2="230.0" y2="-290.0" />
+      <line x1="170.0" y1="-290.0" x2="230.0" y2="-290.0" />
+      <line x1="170.0" y1="-327.0" x2="170.0" y2="-290.0" />
+      <line x1="-170.0" y1="-327.0" x2="170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-327.0" x2="-170.0" y2="-290.0" />
+      <line x1="-230.0" y1="-290.0" x2="-170.0" y2="-290.0" />
+      <line x1="-230.0" y1="-327.0" x2="-230.0" y2="-290.0" />
+      <line x1="-260.0" y1="-327.0" x2="-230.0" y2="-327.0" />
+      <path d="M -260.0,70.0 L -260.0,72.23929 L -260.0,74.450419 L -260.0,76.605581 L -260.0,78.677675 L -260.0,80.640642 L -260.0,82.469796 L -260.0,84.142136 L -260.0,85.63663 L -260.0,86.934484 L -260.0,88.019377 L -260.0,88.877667 L -260.0,89.498558 L -260.0,89.874244 L -260.0,90.0" />
+      <path d="M -260.0,90.0 L -260.0,89.498558 L -260.0,88.019377 L -260.0,85.63663 L -260.0,82.469796 L -260.0,78.677675 L -260.0,74.450419 L -260.0,70.0 L -260.0,65.549581 L -260.0,61.322325 L -260.0,57.530204 L -260.0,54.36337 L -260.0,51.980623 L -260.0,50.501442 L -260.0,50.0" />
+      <path d="M -260.0,50.0 L -260.0,50.125756 L -260.0,50.501442 L -260.0,51.122333 L -260.0,51.980623 L -260.0,53.065516 L -260.0,54.36337 L -260.0,55.857864 L -260.0,57.530204 L -260.0,59.359358 L -260.0,61.322325 L -260.0,63.394419 L -260.0,65.549581 L -260.0,67.76071 L -260.0,70.0" />
+      <path d="M -260.0,-230.0 L -260.0,-227.312853 L -260.0,-224.659498 L -260.0,-222.073303 L -260.0,-219.58679 L -260.0,-217.23123 L -260.0,-215.036245 L -260.0,-213.029437 L -260.0,-211.236044 L -260.0,-209.678619 L -260.0,-208.376747 L -260.0,-207.3468 L -260.0,-206.60173 L -260.0,-206.150907 L -260.0,-206.0" />
+      <path d="M -260.0,-206.0 L -260.0,-206.60173 L -260.0,-208.376747 L -260.0,-211.236044 L -260.0,-215.036245 L -260.0,-219.58679 L -260.0,-224.659498 L -260.0,-230.0 L -260.0,-235.340502 L -260.0,-240.41321 L -260.0,-244.963755 L -260.0,-248.763956 L -260.0,-251.623253 L -260.0,-253.39827 L -260.0,-254.0" />
+      <path d="M -260.0,-254.0 L -260.0,-253.849093 L -260.0,-253.39827 L -260.0,-252.6532 L -260.0,-251.623253 L -260.0,-250.321381 L -260.0,-248.763956 L -260.0,-246.970563 L -260.0,-244.963755 L -260.0,-242.76877 L -260.0,-240.41321 L -260.0,-237.926697 L -260.0,-235.340502 L -260.0,-232.687147 L -260.0,-230.0" />
+      <path d="M 260.0,70.0 L 260.0,72.23929 L 260.0,74.450419 L 260.0,76.605581 L 260.0,78.677675 L 260.0,80.640642 L 260.0,82.469796 L 260.0,84.142136 L 260.0,85.63663 L 260.0,86.934484 L 260.0,88.019377 L 260.0,88.877667 L 260.0,89.498558 L 260.0,89.874244 L 260.0,90.0" />
+      <path d="M 260.0,90.0 L 260.0,89.498558 L 260.0,88.019377 L 260.0,85.63663 L 260.0,82.469796 L 260.0,78.677675 L 260.0,74.450419 L 260.0,70.0 L 260.0,65.549581 L 260.0,61.322325 L 260.0,57.530204 L 260.0,54.36337 L 260.0,51.980623 L 260.0,50.501442 L 260.0,50.0" />
+      <path d="M 260.0,50.0 L 260.0,50.125756 L 260.0,50.501442 L 260.0,51.122333 L 260.0,51.980623 L 260.0,53.065516 L 260.0,54.36337 L 260.0,55.857864 L 260.0,57.530204 L 260.0,59.359358 L 260.0,61.322325 L 260.0,63.394419 L 260.0,65.549581 L 260.0,67.76071 L 260.0,70.0" />
+      <line x1="245.0" y1="-327.0" x2="258.0" y2="-327.0" />
+      <line x1="-230.0" y1="-327.0" x2="-170.0" y2="-327.0" />
+      <line x1="205.0" y1="-327.0" x2="245.0" y2="-327.0" />
+      <line x1="-258.0" y1="-327.0" x2="-230.0" y2="-327.0" />
+      <line x1="-230.0" y1="-327.0" x2="-170.0" y2="-327.0" />
+      <line x1="170.0" y1="-327.0" x2="230.0" y2="-327.0" />
+      <line x1="230.0" y1="-330.0" x2="230.0" y2="-327.0" />
+      <line x1="230.0" y1="-290.0" x2="230.0" y2="-327.0" />
+      <line x1="230.0" y1="-330.0" x2="230.0" y2="-327.0" />
+      <line x1="170.0" y1="-290.0" x2="230.0" y2="-290.0" />
+      <line x1="170.0" y1="-290.0" x2="170.0" y2="-327.0" />
+      <line x1="170.0" y1="-330.0" x2="170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-330.0" x2="-170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-290.0" x2="-170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-330.0" x2="-170.0" y2="-327.0" />
+      <line x1="-230.0" y1="-290.0" x2="-170.0" y2="-290.0" />
+      <line x1="-230.0" y1="-330.0" x2="-230.0" y2="-327.0" />
+      <line x1="-230.0" y1="-290.0" x2="-230.0" y2="-327.0" />
+      <line x1="-230.0" y1="-330.0" x2="-230.0" y2="-327.0" />
+      <path d="M -258.0,70.0 L -258.0,72.23929 L -258.0,74.450419 L -258.0,76.605581 L -258.0,78.677675 L -258.0,80.640642 L -258.0,82.469796 L -258.0,84.142136 L -258.0,85.63663 L -258.0,86.934484 L -258.0,88.019377 L -258.0,88.877667 L -258.0,89.498558 L -258.0,89.874244 L -258.0,90.0" />
+      <path d="M -258.0,90.0 L -258.0,89.498558 L -258.0,88.019377 L -258.0,85.63663 L -258.0,82.469796 L -258.0,78.677675 L -258.0,74.450419 L -258.0,70.0 L -258.0,65.549581 L -258.0,61.322325 L -258.0,57.530204 L -258.0,54.36337 L -258.0,51.980623 L -258.0,50.501442 L -258.0,50.0" />
+      <path d="M -258.0,50.0 L -258.0,50.125756 L -258.0,50.501442 L -258.0,51.122333 L -258.0,51.980623 L -258.0,53.065516 L -258.0,54.36337 L -258.0,55.857864 L -258.0,57.530204 L -258.0,59.359358 L -258.0,61.322325 L -258.0,63.394419 L -258.0,65.549581 L -258.0,67.76071 L -258.0,70.0" />
+      <path d="M -258.0,-230.0 L -258.0,-227.312853 L -258.0,-224.659498 L -258.0,-222.073303 L -258.0,-219.58679 L -258.0,-217.23123 L -258.0,-215.036245 L -258.0,-213.029437 L -258.0,-211.236044 L -258.0,-209.678619 L -258.0,-208.376747 L -258.0,-207.3468 L -258.0,-206.60173 L -258.0,-206.150907 L -258.0,-206.0" />
+      <path d="M -258.0,-206.0 L -258.0,-206.60173 L -258.0,-208.376747 L -258.0,-211.236044 L -258.0,-215.036245 L -258.0,-219.58679 L -258.0,-224.659498 L -258.0,-230.0 L -258.0,-235.340502 L -258.0,-240.41321 L -258.0,-244.963755 L -258.0,-248.763956 L -258.0,-251.623253 L -258.0,-253.39827 L -258.0,-254.0" />
+      <path d="M -258.0,-254.0 L -258.0,-253.849093 L -258.0,-253.39827 L -258.0,-252.6532 L -258.0,-251.623253 L -258.0,-250.321381 L -258.0,-248.763956 L -258.0,-246.970563 L -258.0,-244.963755 L -258.0,-242.76877 L -258.0,-240.41321 L -258.0,-237.926697 L -258.0,-235.340502 L -258.0,-232.687147 L -258.0,-230.0" />
+      <path d="M 258.0,70.0 L 258.0,72.23929 L 258.0,74.450419 L 258.0,76.605581 L 258.0,78.677675 L 258.0,80.640642 L 258.0,82.469796 L 258.0,84.142136 L 258.0,85.63663 L 258.0,86.934484 L 258.0,88.019377 L 258.0,88.877667 L 258.0,89.498558 L 258.0,89.874244 L 258.0,90.0" />
+      <path d="M 258.0,90.0 L 258.0,89.498558 L 258.0,88.019377 L 258.0,85.63663 L 258.0,82.469796 L 258.0,78.677675 L 258.0,74.450419 L 258.0,70.0 L 258.0,65.549581 L 258.0,61.322325 L 258.0,57.530204 L 258.0,54.36337 L 258.0,51.980623 L 258.0,50.501442 L 258.0,50.0" />
+      <path d="M 258.0,50.0 L 258.0,50.125756 L 258.0,50.501442 L 258.0,51.122333 L 258.0,51.980623 L 258.0,53.065516 L 258.0,54.36337 L 258.0,55.857864 L 258.0,57.530204 L 258.0,59.359358 L 258.0,61.322325 L 258.0,63.394419 L 258.0,65.549581 L 258.0,67.76071 L 258.0,70.0" />
+      <line x1="245.0" y1="-330.0" x2="245.0" y2="-327.0" />
+      <line x1="-258.0" y1="328.0" x2="258.0" y2="328.0" />
+      <line x1="258.0" y1="-327.0" x2="258.0" y2="328.0" />
+      <line x1="-230.0" y1="-327.0" x2="-170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-327.0" x2="205.0" y2="-327.0" />
+      <line x1="205.0" y1="-327.0" x2="245.0" y2="-327.0" />
+      <line x1="-258.0" y1="-327.0" x2="-258.0" y2="328.0" />
+      <line x1="258.0" y1="-327.0" x2="258.0" y2="328.0" />
+      <line x1="-258.0" y1="328.0" x2="258.0" y2="328.0" />
+      <line x1="-258.0" y1="-327.0" x2="-258.0" y2="328.0" />
+      <line x1="-230.0" y1="-330.0" x2="-230.0" y2="-327.0" />
+      <line x1="-230.0" y1="-330.0" x2="-170.0" y2="-330.0" />
+      <line x1="205.0" y1="-330.0" x2="230.0" y2="-330.0" />
+      <line x1="170.0" y1="-327.0" x2="230.0" y2="-327.0" />
+      <line x1="230.0" y1="-327.0" x2="170.0" y2="-327.0" />
+      <line x1="170.0" y1="-330.0" x2="230.0" y2="-330.0" />
+      <line x1="-230.0" y1="-327.0" x2="-170.0" y2="-327.0" />
+      <line x1="-170.0" y1="-327.0" x2="-230.0" y2="-327.0" />
+      <line x1="-230.0" y1="-330.0" x2="-170.0" y2="-330.0" />
+      <line x1="-230.0" y1="-330.0" x2="-170.0" y2="-330.0" />
+      <line x1="-170.0" y1="-330.0" x2="-170.0" y2="-327.0" />
+      <line x1="205.0" y1="-330.0" x2="205.0" y2="-327.0" />
+      <line x1="205.0" y1="-330.0" x2="245.0" y2="-330.0" />
+      <line x1="205.0" y1="-327.0" x2="245.0" y2="-327.0" />
+      <line x1="-230.0" y1="-327.0" x2="-170.0" y2="-327.0" />
+      <line x1="-258.0" y1="90.0" x2="-260.0" y2="90.0" />
+      <line x1="-258.0" y1="50.0" x2="-260.0" y2="50.0" />
+      <line x1="-258.0" y1="-206.0" x2="-260.0" y2="-206.0" />
+      <line x1="-258.0" y1="-254.0" x2="-260.0" y2="-254.0" />
+      <line x1="260.0" y1="90.0" x2="258.0" y2="90.0" />
+      <line x1="260.0" y1="50.0" x2="258.0" y2="50.0" />
+    </g>
+    <g fill="none" stroke="rgb(106,113,128)" stroke-width="1.7500" id="Center" stroke-dasharray="42.000 5.272 0.044 5.272">
+      <line x1="-251.88" y1="70.0" x2="-260.0" y2="70.0" />
+      <line x1="-250.68" y1="-230.0" x2="-260.0" y2="-230.0" />
+      <line x1="260.0" y1="70.0" x2="251.88" y2="70.0" />
+    </g>
+  </g>
+</svg><text x="186.52" y="195.24" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.8" font-weight="600" fill="#111827" text-anchor="middle">RIGHT VIEW</text><text x="186.52" y="199.24" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.2" font-weight="400" fill="#4B5563" text-anchor="middle">Scale 1:10; looking at the right side (along -X)</text><line x1="83.48" y1="43.98" x2="83.48" y2="36.38" stroke="#111827" stroke-width="0.18"/><line x1="146.48" y1="43.98" x2="146.48" y2="36.38" stroke="#111827" stroke-width="0.18"/><line x1="83.48" y1="38.18" x2="146.48" y2="38.18" stroke="#111827" stroke-width="0.18"/><path d="M83.48 38.18 l2.6 -0.45 l0 0.9 Z M146.48 38.18 l-2.6 -0.45 l0 0.9 Z" fill="#111827"/><text x="114.98" y="37.18" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.5" font-weight="500" fill="#111827" text-anchor="middle">630</text><line x1="82.28" y1="45.18" x2="74.68" y2="45.18" stroke="#111827" stroke-width="0.18"/><line x1="82.28" y1="97.18" x2="74.68" y2="97.18" stroke="#111827" stroke-width="0.18"/><line x1="76.48" y1="45.18" x2="76.48" y2="97.18" stroke="#111827" stroke-width="0.18"/><path d="M76.48 45.18 l-0.45 2.6 l0.9 0 Z M76.48 97.18 l-0.45 -2.6 l0.9 0 Z" fill="#111827"/><g transform="translate(75.48 71.18) rotate(-90)"><text x="0.00" y="0.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.5" font-weight="500" fill="#111827" text-anchor="middle">520</text></g><line x1="82.28" y1="123.22" x2="74.68" y2="123.22" stroke="#111827" stroke-width="0.18"/><line x1="82.28" y1="189.22" x2="74.68" y2="189.22" stroke="#111827" stroke-width="0.18"/><line x1="76.48" y1="123.22" x2="76.48" y2="189.22" stroke="#111827" stroke-width="0.18"/><path d="M76.48 123.22 l-0.45 2.6 l0.9 0 Z M76.48 189.22 l-0.45 -2.6 l0.9 0 Z" fill="#111827"/><g transform="translate(75.48 156.22) rotate(-90)"><text x="0.00" y="0.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.5" font-weight="500" fill="#111827" text-anchor="middle">660</text></g><image x="276" y="30" width="140" height="70" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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AEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMkIEAAAIBkBAgAAJCNAAACAZAQIAACQjAABAACSESAAAEAyAgQAAEhGgAAAAMn8/861jfbjZMUaAAAAAElFTkSuQmCC"/><text x="346.00" y="106.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.8" font-weight="600" fill="#111827" text-anchor="middle">WHERE IT GOES</text><text x="346.00" y="110.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.2" font-weight="400" fill="#4B5563" text-anchor="middle">This part in colour, its neighbours in grey</text><rect x="276" y="112" width="140" height="54.0" fill="#FFFFFF" stroke="#111827" stroke-width="0.35"/><text x="279.00" y="117.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.3" font-weight="600" fill="#0F766E" text-anchor="start">HOW TO MAKE IT AND HOW IT FITS</text><text x="279.00" y="122.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">Box 600 mm along the frame, 520 mm across, 657 mm tall,</text><text x="279.00" y="126.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">  open at the bottom; 2 mm sheet folded and welded.</text><text x="279.00" y="131.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">Holes for the pump shaft, 40 mm, in both sides.</text><text x="279.00" y="135.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">Spout hole 48 mm in the front side, 100 mm up.</text><text x="279.00" y="140.40" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">Four tabs at the bottom, bolted to the crossbars,</text><text x="279.00" y="145.00" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">  M8: two flat at the drive end, two bent up at the</text><text x="279.00" y="149.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">  pump end.</text><text x="279.00" y="154.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">Clearance to the wheel and the ratchet at least 20 mm.</text><text x="279.00" y="158.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">Check: the wheel and pawl are covered on every side</text><text x="279.00" y="163.40" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">  above the frame.</text><rect x="273.8" y="10.0" width="148" height="10.4" fill="#FFFFFF" stroke="#111827" stroke-width="0.5"/><rect x="273.8" y="10.0" width="148" height="5.2" fill="#F3F4F6" stroke="#111827" stroke-width="0.5"/><text x="275.60" y="13.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.0" font-weight="600" fill="#111827" text-anchor="start">REV</text><text x="289.60" y="13.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.0" font-weight="600" fill="#111827" text-anchor="start">DESCRIPTION</text><text x="381.60" y="13.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.0" font-weight="600" fill="#111827" text-anchor="start">DATE</text><text x="407.60" y="13.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.0" font-weight="600" fill="#111827" text-anchor="start">BY</text><line x1="273.8" y1="15.2" x2="421.8" y2="15.2" stroke="#9CA3AF" stroke-width="0.3"/><text x="275.60" y="18.80" font-family="IBM Plex Mono, Menlo, monospace" font-size="2.3" font-weight="400" fill="#111827" text-anchor="start">P1</text><text x="289.60" y="18.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.3" font-weight="400" fill="#111827" text-anchor="start">Making sketch for the prototype build plan</text><text x="381.60" y="18.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.3" font-weight="400" fill="#111827" text-anchor="start">2026-10-03</text><text x="407.60" y="18.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.3" font-weight="400" fill="#111827" text-anchor="start">AC</text><rect x="231.8" y="213.39999999999998" width="190.0" height="56.0" fill="#FFFFFF" stroke="#111827" stroke-width="0.7"/><rect x="231.8" y="213.39999999999998" width="3" height="56.0" fill="#0F766E"/><line x1="231.8" y1="227.39999999999998" x2="421.8" y2="227.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><line x1="231.8" y1="239.39999999999998" x2="421.8" y2="239.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><line x1="231.8" y1="251.39999999999998" x2="421.8" y2="251.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><line x1="231.8" y1="260.4" x2="421.8" y2="260.4" stroke="#9CA3AF" stroke-width="0.3"/><text x="237.80" y="218.40" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.2" font-weight="600" fill="#0F766E" text-anchor="start">COLLARDRIVE</text><text x="418.80" y="218.40" font-family="IBM Plex Mono, Menlo, monospace" font-size="2.2" font-weight="500" fill="#0F766E" text-anchor="end">github.com/BoujeeEnjinia1701/collardrive</text><text x="237.80" y="224.40" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="4.4" font-weight="600" fill="#111827" text-anchor="start">CollarDrive pump wheel hood: making sketch</text><text x="236.80" y="230.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">DRAWING NO.</text><text x="236.80" y="235.60" font-family="IBM Plex Mono, Menlo, monospace" font-size="3.4" font-weight="600" fill="#111827" text-anchor="start">CLD-DWG-117</text><text x="316.80" y="230.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">REV</text><text x="316.80" y="235.60" font-family="IBM Plex Mono, Menlo, monospace" font-size="3.4" font-weight="600" fill="#111827" text-anchor="start">P1</text><line x1="314.8" y1="227.39999999999998" x2="314.8" y2="239.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="341.80" y="230.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">SHEET</text><text x="341.80" y="235.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.4" font-weight="600" fill="#111827" text-anchor="start">1 of 1</text><line x1="339.8" y1="227.39999999999998" x2="339.8" y2="239.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="371.80" y="230.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">SIZE</text><text x="371.80" y="235.60" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.4" font-weight="600" fill="#111827" text-anchor="start">ANSI B</text><line x1="369.8" y1="227.39999999999998" x2="369.8" y2="239.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="236.80" y="242.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">SCALE</text><text x="236.80" y="247.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.0" font-weight="500" fill="#111827" text-anchor="start">1:10</text><text x="266.80" y="242.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">UNITS</text><text x="266.80" y="247.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.0" font-weight="500" fill="#111827" text-anchor="start">mm</text><line x1="264.8" y1="239.39999999999998" x2="264.8" y2="251.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="291.80" y="242.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">PROJECTION</text><path d="M302.8 244.39999999999998 L308.8 242.89999999999998 L308.8 250.89999999999998 L302.8 249.39999999999998 Z" fill="none" stroke="#111827" stroke-width="0.3"/><circle cx="314.8" cy="246.89999999999998" r="4" fill="none" stroke="#111827" stroke-width="0.3"/><circle cx="314.8" cy="246.89999999999998" r="2.3" fill="none" stroke="#111827" stroke-width="0.3"/><line x1="300.8" y1="246.89999999999998" x2="320.3" y2="246.89999999999998" stroke="#111827" stroke-width="0.18" stroke-dasharray="3 1 0.6 1"/><line x1="289.8" y1="239.39999999999998" x2="289.8" y2="251.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="326.80" y="242.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">DATE</text><text x="326.80" y="247.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.0" font-weight="500" fill="#111827" text-anchor="start">2026-10-03</text><line x1="324.8" y1="239.39999999999998" x2="324.8" y2="251.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="366.80" y="242.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">DRAWN</text><text x="366.80" y="247.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="3.0" font-weight="500" fill="#111827" text-anchor="start">Amish Chadha</text><line x1="364.8" y1="239.39999999999998" x2="364.8" y2="251.39999999999998" stroke="#9CA3AF" stroke-width="0.3"/><text x="236.80" y="254.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.8" font-weight="500" fill="#4B5563" text-anchor="start">MATERIAL / NOTES</text><text x="236.80" y="258.80" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.6" font-weight="400" fill="#111827" text-anchor="start">2 mm steel sheet</text><text x="236.80" y="266.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="2.1" font-weight="400" fill="#4B5563" text-anchor="start">Licensed CERN-OHL-S-2.0 · Design Molecule Lab · designmolecule.com</text><text x="418.80" y="266.20" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" font-size="1.9" font-weight="400" fill="#4B5563" text-anchor="end">Generated from cad/src; do not edit by hand</text></svg>

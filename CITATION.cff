@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or build on this design, please cite it as below."
+type: software
+title: "CollarDrive"
+abstract: "Keeps engines on the surface by driving a rope pump and blower from a frame on the shaft collar."
+authors:
+  - given-names: Amish
+    family-names: Chadha
+    affiliation: Design Molecule
+    orcid: "https://orcid.org/0009-0000-8079-7141"
+repository-code: "https://github.com/BoujeeEnjinia1701/collardrive"
+url: "https://designmolecule.com"
+license: CERN-OHL-S-2.0
+keywords:
+  - open-hardware
+  - artisanal-mining
+  - ventilation
+  - rope-pump
+  - carbon-monoxide

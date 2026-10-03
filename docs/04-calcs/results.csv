@@ -1,0 +1,35 @@
+tag,result,value
+A1,Layshaft 467 rpm; rope wheel 75.0 rpm; blower 2007 rpm at 2800 rpm engine,75
+A2,Rope speed 1.57 m/s on a 400 mm rope circle,1.571
+A3-st1,"Engine to layshaft: centres 1166 mm, pitch length 3246 mm (about A126), wrap on the small pulley 160 deg, belt speed 11.7 m/s",3246
+A3-st2,"Layshaft to pump pulley (two belts): centres 1101 mm, pitch length 3274 mm (about A128), wrap on the small pulley 155 deg, belt speed 2.2 m/s",3274
+A3-blow,"Layshaft to blower: centres 709 mm, pitch length 2108 mm (about A82), wrap on the small pulley 159 deg, belt speed 8.4 m/s",2108
+A4,"Clutch idler centre at 459 mm along, 764 mm up; presses the slack strand of the pump belts",763.7
+B10,"10 m head, 40 mm PVC PN10: 81.5 L/min; rope pull 116 N; rope power 0.18 kW; at the pump pulley 0.20 kW; belt pull 92 N (31 % of two A belts); pump efficiency 66 %",81.48
+B20,"20 m head, 40 mm PVC PN10: 75.7 L/min; rope pull 232 N; rope power 0.36 kW; at the pump pulley 0.41 kW; belt pull 184 N (61 % of two A belts); pump efficiency 61 %",75.66
+B30,"30 m head, 40 mm PVC PN10: 69.8 L/min; rope pull 348 N; rope power 0.55 kW; at the pump pulley 0.61 kW; belt pull 276 N (92 % of two A belts); pump efficiency 56 %",69.84
+B40,"40 m head, 32 mm PVC PN10: 40.5 L/min; rope pull 294 N; rope power 0.46 kW; at the pump pulley 0.51 kW; belt pull 233 N (78 % of two A belts); pump efficiency 52 %",40.52
+B45,"45 m head, 32 mm PVC PN10: 38.7 L/min; rope pull 331 N; rope power 0.52 kW; at the pump pulley 0.58 kW; belt pull 262 N (87 % of two A belts); pump efficiency 49 %",38.68
+B60,"60 m head, 25 mm PVC PN16: 19.3 L/min; rope pull 257 N; rope power 0.40 kW; at the pump pulley 0.45 kW; belt pull 204 N (68 % of two A belts); pump efficiency 42 %",19.35
+C30,Duct 30 m: blower 0.210 m3/s at 207 Pa; 0.189 m3/s at the duct end (enough for 3.8 people at 0.05 m3/s each); blower shaft 0.10 kW,0.1888
+C60,Duct 60 m: blower 0.191 m3/s at 290 Pa; 0.153 m3/s at the duct end (enough for 3.1 people at 0.05 m3/s each); blower shaft 0.12 kW,0.1531
+D20,20 m head with 30 m duct: engine shaft 0.56 kW (5.4 x margin on 3.0 kW continuous); belt losses 0.05 kW; petrol 0.41 L/h,0.5561
+D30,30 m head with 30 m duct: engine shaft 0.78 kW (3.8 x margin on 3.0 kW continuous); belt losses 0.08 kW; petrol 0.58 L/h,0.7807
+D60,60 m head with 30 m duct: engine shaft 0.60 kW (5.0 x margin on 3.0 kW continuous); belt losses 0.06 kW; petrol 0.45 L/h,0.6047
+E1,Exhaust outlet 7.05 m from the edge of a 1.5 m collar and 6.46 m from the blower intake,6.46
+E2,Exhaust gas 8.4 m/s in 7.3 m of pipe; back pressure about 109 Pa,109.3
+F1,"Span module: 2.45 m between sleeper centres; per sill I = 112 cm4, W = 22.4 cm3",2.242e+04
+F2,"Working loads at 30 m: moment 1215 N m, bending stress 27 MPa",27.08
+F3,"Misuse check, 1.5 kN on the frame over the shaft centre: 2094 N m, 47 MPa, deflection 1.0 mm (S275 yield 275 MPa)",46.7
+F4,Ground bearing under the three sleepers about 7 kPa for 3.8 kN in total,7.076
+G1,"Pump shaft 30 mm: torque 70 N m, overhung belt moment 62 N m, equivalent stress 33 MPa",32.69
+G2,"Layshaft 25 mm: torque 15.2 N m, overhung moment 75 N m, equivalent stress 50 MPa",49.7
+G3,Backstop holds 61 N m; tooth load 582 N at 104 mm,582.5
+H1,"Span module with pedestals and cleats 69.6 kg; drive module 34.3 kg; engine about 16 kg; blower about 30 kg; wheel, pump pulley, shaft and ratchet 33.4 kg",69.63
+H2,"Bill of materials USD 2,535; value-engineering target USD 3,500; USD 965 under the target",2535
+H3,  cost driver: 14 Blower with plate and inlet guard USD 340,340
+H3,  cost driver: 29 Gas detector USD 320,320
+H3,  cost driver: 13 Engine and engine plate USD 215,215
+H3,  cost driver: 24 Lay-flat duct USD 195,195
+H3,  cost driver: 10 Pulleys USD 165,165
+H3,  cost driver: 16 Belt guard USD 120,120
